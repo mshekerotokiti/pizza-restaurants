@@ -234,6 +234,7 @@ JSON data, along with the appropriate HTTP status code:
 
   "errors": ["validation errors"]
 
-}
+} 
+```
 
-Once everithing is done, run `rail s` to start your server
+# Once everithing is done, run `rail s` to start your server
